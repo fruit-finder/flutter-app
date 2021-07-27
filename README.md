@@ -1,7 +1,7 @@
 # fruit_classifier
 
 A new Flutter project.
-
+![Icon](https://github.com/Abhishek-Garg-Ai/Fruit-Finder/blob/main/assets/images/app_icon.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
